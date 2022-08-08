@@ -1,0 +1,14 @@
+{
+  "name": "parse-cookie-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "author": "Stijn de Ligt <stijndeligt@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
